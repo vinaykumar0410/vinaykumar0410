@@ -1,8 +1,8 @@
 <pre>
- __     ___                     _  __                          
- \ \   / (_)_ __   __ _ _   _  | |/ /   _ _ __ ___   __ _ _ __      
-  \ \ / /| | '_ \ / _` | | | | | ' / | | | '_ ` _ \ / _` | '__|    
-   \ V / | | | | | (_| | |_| | | . \ |_| | | | | | | (_| | |       
+ __     ___                     _  __                                ![](https://komarev.com/ghpvc/?username=vinaykumar0410)
+ \ \   / (_)_ __   __ _ _   _  | |/ /   _ _ __ ___   __ _ _ __       ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+  \ \ / /| | '_ \ / _` | | | | | ' / | | | '_ ` _ \ / _` | '__|      ![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+   \ V / | | | | | (_| | |_| | | . \ |_| | | | | | | (_| | |         ![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
     \_/  |_|_| |_|\__,_|\__, | |_|\_\__,_|_| |_| |_|\__,_|_|       
                         |___/   code your thoughts                              
 </pre>
