@@ -10,7 +10,7 @@
 - 👋 Hi, I’m @vinaykumar
 - 👀 I’m interested in exploring various tech stacks
 - 🌱 I’m currently learning full stack technologies
-- 💞️ I’m looking to collaborate on sharing ideas
+- 💞️ I’m ready to collaborate
 - 📫 How to reach me ? Reach out on <em><a href='https://www.linkedin.com/in/vinaykumar0517/'>link</a></em> : Ty🤝🏻
 - ⚡ Fun fact: No more fun just code your thoughts
 
